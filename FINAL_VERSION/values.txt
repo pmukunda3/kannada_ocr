@@ -1,0 +1,5 @@
+"sample1.png", "sample3.png", "sample4.png", "sample5.png"
+Use ysize=5,xsize=13,thresh=128
+
+"sample2.png"
+Use ysize=4,xsize=5,thresh=128

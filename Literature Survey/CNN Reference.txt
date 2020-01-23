@@ -1,0 +1,3 @@
+https://github.com/adventuresinML/adventures-in-ml-code/blob/master/keras_cnn.py
+
+http://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/

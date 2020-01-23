@@ -1,0 +1,4 @@
+Train with more samples to increase accuracy
+Add different fonts
+Find way to extract and identify vattaksharas
+Word identification
