@@ -1,7 +1,13 @@
-This is a soft copy of the project titled 'An OCR System for Printed Kannada Text', done by:
+This is a soft copy of the BS Final year project titled '“OCR for Regional Language using Convolution Neural Networks” to Recognise Regional language (Kannada) printed characters – size and font independent 
+-	Extract characters using Segmentation method, Extract half characters using baseline technique
+-	Trained Convolution Neural Network to recognize the characters; Overall accuracy – 97.9%  
+-	Used Python, TensorFlow, Keras', 
+
+done by:
 - Niraj S Prasad (1PI14EC043)
 - Pradyumna Mukunda (1PI14EC045)
 - Santhosh D M (1PI14EC060)
+
 
 The folder contains all the samples used for the project, the implementation codes, and the output text files.
 
